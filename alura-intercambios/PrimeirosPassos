@@ -38,3 +38,6 @@ actions hooks wordpress
 
 apos isso ira aparecer aparencia item menu
 marcar Exibir localização Menu navegação
+
+registrando o Menu
+que fica em wp-content -> themes -> alura-intercambios->Header.php
