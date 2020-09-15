@@ -10,3 +10,14 @@ que fica em wp-content -> themes -> alura-intercambios->index.php
 
 4 Apos isso acessa a web para parte administrativa
 aparencia -> themas-> irá aparecer seu tema.
+
+5 Criando Header e Footer
+
+Tem que criar um arquivo Header.php
+que fica em wp-content -> themes -> alura-intercambios->Header.php
+
+Tem que criar um arquivo Footer.php
+que fica em wp-content -> themes -> alura-intercambios->Footer.php
+
+6 chamando o conteudo do Header e do Footer no arquivo index.php
+que fica em wp-content -> themes -> alura-intercambios->index.php
