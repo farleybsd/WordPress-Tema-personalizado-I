@@ -1,0 +1,12 @@
+1 Diretorio dos themas 
+ wp-content -> themes -> criar uma pasta com nome do thema
+ nesse caso sera alura-intercambios
+
+2 Tem que criar um arquivo style.css
+que fica em wp-content -> themes -> alura-intercambios->style.css
+
+3 Tem que criar um arquivo index.php
+que fica em wp-content -> themes -> alura-intercambios->index.php
+
+4 Apos isso acessa a web para parte administrativa
+aparencia -> themas-> irá aparecer seu tema.
