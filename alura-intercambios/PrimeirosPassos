@@ -21,3 +21,20 @@ que fica em wp-content -> themes -> alura-intercambios->Footer.php
 
 6 chamando o conteudo do Header e do Footer no arquivo index.php
 que fica em wp-content -> themes -> alura-intercambios->index.php
+
+Menu de navegação
+
+Acessar a pagima administrativa remover as paginas que estão la
+
+Adiconar Pagima Home -> Publicar
+Adiconar Pagima Destinos -> Publicar
+Adiconar Pagima SobreNós -> Publicar
+
+Para chamar o menu temos que criar o arquivo functions.php
+
+que fica em wp-content -> themes -> alura-intercambios->functions.php
+
+actions hooks wordpress
+
+apos isso ira aparecer aparencia item menu
+marcar Exibir localização Menu navegação
