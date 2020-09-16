@@ -56,3 +56,16 @@ o arquivo index.php
 que fica em wp-content -> themes -> alura-intercambios->index.php
 
 Rodapé
+
+Hierarquia dos templates
+
+Criando uma page no wordpress codigo
+
+tem que criar com format page-destino ou seje page-slug
+esse slug e passado na url como no exemplo
+http://localhost:8080/WordPress-Tema-personalizado-I/alura-intercambios/destinos/
+
+Posts customizados
+vai ser no menu lateral
+
+alterar o arquivo functions.php
