@@ -20,7 +20,16 @@ require_once 'header.php';
 </form>
 
 <?php
-$args = array('post_type' => 'destinos' );
+$paisSelecionado= array(array(
+    'taxonomy'=>'paises',
+    'field'=> 'name',
+    'terms'=> $_GET['paises']
+));
+
+$args = array(
+    'post_type' => 'destinos',
+     'tax_query' => $paisSelecionado
+);
 $query = new WP_Query($args);
 if ($query->have_posts()):
     echo '<main class="page-destinos">';
