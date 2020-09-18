@@ -72,3 +72,13 @@ alterar o arquivo functions.php
 
 Taxonomia Agrupar
 Taxonomia é a nomenclatura utilizada para agrupar posts de acordo com alguma característica em comum.
+
+Página home
+
+Criar o arquivo front-page.php
+que fica no Diretorio wp-content -> themes -> alura-intercambios->front-page.php
+
+Depois arquivo functions.php
+
+
+Depois no painel administrativo no browser.
