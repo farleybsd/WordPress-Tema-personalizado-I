@@ -20,6 +20,12 @@ if($query->have_posts()):
         <div class="imagem-banner">
             <?php the_post_thumbnail() ?>
         </div>
+
+        <div class="texto-banner-dinamico">
+            <span id = 'texto-banner'>
+
+            </span>
+        </div>
     </main>
 
     <?php
